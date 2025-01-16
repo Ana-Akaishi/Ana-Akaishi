@@ -1,11 +1,7 @@
 # About Me:
-Hi there! I'm Ana Akaishi, an experienced financial analyst passionate about data and technology. 
+Hi there! I'm Ana Akaishi, an experienced financial analyst passionate about data and technology. <br><br>Over the years, I’ve honed my skills in finance and business intelligence, and I am now pivoting into the exciting world of data analysis and machine learning. <br>I believe in leveraging data-driven insights to solve complex problems and drive strategic decisions.
 
-<br><br>Over the years, I’ve honed my skills in finance and business intelligence, and I am now pivoting into the exciting world of data analysis and machine learning. 
-<br>I believe in leveraging data-driven insights to solve complex problems and drive strategic decisions.
-
-<br><br>With a background in corporate finance and business analytics, I've worked with some of the largest global organizations like Amazon, and I've also taught finance courses at the Fundação Getúlio Vargas (FGV). 
-<br>Throughout my career, I've been driven by the power of data to transform the way we approach decision-making, and I’m now applying these skills to tackle real-world challenges in the tech field.
+<br><br>With a background in corporate finance and business analytics, I've worked with some of the largest global organizations like Amazon, and I've also taught finance courses at the Fundação Getúlio Vargas (FGV). <br>Throughout my career, I've been driven by the power of data to transform the way we approach decision-making, and I’m now applying these skills to tackle real-world challenges in the tech field.
 
 As I continue my journey into the tech world, I want to collaborate on data analysis projects, contribute to open-source, and continue learning about machine learning, deep learning, and artificial intelligence.
 
