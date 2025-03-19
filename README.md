@@ -5,7 +5,7 @@ As I continue my journey into the tech world, I want to collaborate on data anal
 
 ## Projects
 Feel free to check out my projects, and let’s connect!
-- [Brazilian Investment Funds Overview[(https://github.com/Ana-Akaishi/br_investmentfunds): ETL public data, EDA, ML prediction. IMPORTANT DISCLAIMER: THIS IS NOT AN INVESTMENT ADVICE
+- [Brazilian Investment Funds Overview](https://github.com/Ana-Akaishi/br_investmentfunds): ETL public data, EDA, ML prediction. IMPORTANT DISCLAIMER: THIS IS NOT AN INVESTMENT ADVICE
 - [Bank Loan Default](https://github.com/Ana-Akaishi/bank_loan_ML): EDA, Imbalanced dataset, Synthetic Data, Increase Penalty, ML classification
 - [Telecom Churn](https://github.com/Ana-Akaishi/telecom_churn): Docker, SQL, EDA, Imbalanced dataset, ML prediction, Simulated production mode (API)
 - [Credit Card Fraud](https://github.com/Ana-Akaishi/cc_fraud): PySpark, EDA, feature engineering, Imbalanced dataset, ML classification, Increase penalty, AUC metric
