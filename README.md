@@ -1,11 +1,20 @@
 # About Me:
-Hi there! I'm Ana Akaishi, an experienced financial analyst passionate about data and technology. <br><br>Over the years, I’ve honed my skills in finance and business intelligence, and I am now pivoting into the exciting world of data analysis and machine learning. <br>I believe in leveraging data-driven insights to solve complex problems and drive strategic decisions.<br><br>With a background in corporate finance and business analytics, I've worked with some of the largest global organizations like Amazon, and I've also taught finance courses at the Fundação Getúlio Vargas (FGV).<br>Throughout my career, I've been driven by the power of data to transform the way we approach decision-making, and I’m now applying these skills to tackle real-world challenges in the tech field.
+Hi there! I'm Ana Akaishi, an experienced financial analyst passionate about data and technology. <br><br>Over the years, I’ve honed my skills in finance and business intelligence, and I am now pivoting into the exciting world of data analysis and machine learning. <br>I believe in leveraging data-driven insights to solve complex problems and drive strategic decisions.<br><br>With a background in corporate finance and business analytics, I've worked with some of the largest global organizations like Amazon. I've also taught finance courses at the Fundação Getúlio Vargas (FGV).<br>Throughout my career, I've been driven by the power of data to transform the way we approach decision-making, and I’m now applying these skills to tackle real-world challenges in the tech field.
 
 As I continue my journey into the tech world, I want to collaborate on data analysis projects, contribute to open-source, and continue learning about machine learning, deep learning, and artificial intelligence.
 
+## Projects
 Feel free to check out my projects, and let’s connect!
-- [Data Science Projects](https://github.com/Ana-Akaishi/data-science-projects)
-- [SQL Projects](https://github.com/Ana-Akaishi/sql-projects)
+- [Brazilian Investment Funds Overview[(https://github.com/Ana-Akaishi/br_investmentfunds): ETL public data, EDA, ML prediction. IMPORTANT DISCLAIMER: THIS IS NOT AN INVESTMENT ADVICE
+- [Bank Loan Default](https://github.com/Ana-Akaishi/bank_loan_ML): EDA, Imbalanced dataset, Synthetic Data, Increase Penalty, ML classification
+- [Telecom Churn](https://github.com/Ana-Akaishi/telecom_churn): Docker, SQL, EDA, Imbalanced dataset, ML prediction, Simulated production mode (API)
+- [Credit Card Fraud](https://github.com/Ana-Akaishi/cc_fraud): PySpark, EDA, feature engineering, Imbalanced dataset, ML classification, Increase penalty, AUC metric
+- [Marketing A/B Test](https://github.com/Ana-Akaishi/mkt_ABtest): EDA, A/B Test, statistical analysis
+
+## Study
+Two repositories of notes and resources helpful for data science and analysts.
+- [Data Science](https://github.com/Ana-Akaishi/DS_study): A/B testing, gridsearch, ML classification guide, docker postgreSQL
+- [SQL](https://github.com/Ana-Akaishi/sql-projects): projects and notes on how to start SQL journey and some project ideas
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/ana-akaishi-61b3b5116) 
